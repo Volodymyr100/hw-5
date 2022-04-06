@@ -110,7 +110,7 @@ h3 {
   border-radius: 4px;
 }
 
-.close {
+/* .close {
   position: absolute;
   right: 8px;
   top: 8px;
@@ -138,12 +138,12 @@ h3 {
 
 .close:after {
   transform: rotate(-45deg);
-}
+} */
 
-/* .is-hidden {
+.is-hidden {
   opacity: 0;
   pointer-events: none;
-} */
+}
 
 .fixed-header{
   position: fixed;
